@@ -1,6 +1,4 @@
-///This file was coded by mccrackens LTD///
-
-///DATE LAST EDITED: 17/7/24///
+# Last edited: 12/07/2024
 
 
 # Mccrackens-community
